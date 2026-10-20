@@ -3,7 +3,7 @@ import { Text, View, StyleSheet } from "react-native";
 export default function Index() {
   return (
     <View style={styles.container}>
-      <Text>Se refleja?</Text>
+      <Text className="text-red-500 bg-purple-700">Se reflejwwwwwwwwwwwa?</Text>
     </View>
   );
 }
